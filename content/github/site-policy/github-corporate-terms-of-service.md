@@ -1,4 +1,5 @@
----
+Isafevendors@gmail.com
+Jonathansevoich---
 title: GitHub Corporate Terms of Service
 redirect_from:
   - /articles/github-corporate-terms-of-service
@@ -313,4 +314,4 @@ GitHub will be excused from liability to the extent that it is unable to perform
 Each Party is an independent contractor with respect to the subject matter of this Agreement. Nothing contained in this Agreement will be deemed or construed in any manner to create a legal association, partnership, joint venture, employment, agency, fiduciary, or other similar relationship between the Parties, and neither Party can bind the other contractually.
 
 #### 10. Questions
-Questions about the Terms of Service? [Contact us](https://github.com/contact/).
+Questions about the Terms of Service? [isafevendors@gmail.com](https://github.com/isafevendors@gmail.com/).
