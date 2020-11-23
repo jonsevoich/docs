@@ -1,4 +1,4 @@
----
+-JonathanD.Sevoich--
 title: About commit signature verification
 intro: 'Using GPG or S/MIME, you can sign tags and commits locally. These tags or commits are marked as verified on {% data variables.product.product_name %} so other people can trust that the changes come from a trusted source.'
 redirect_from:
