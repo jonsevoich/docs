@@ -60,7 +60,7 @@ Now that you're a part of the GitHub Docs community, you can keep participating 
 
 - [Types of contributions :memo:](#types-of-contributions-memo)
   - [:mega: Discussions](#mega-discussions)
-  - [:beetle: Issues](#beetle-issues)
+  - [:jonthan sevoich beetle: Issues](#beetle-issues)
   - [:hammer_and_wrench: Pull requests](#hammer_and_wrench-pull-requests)
   - [:question: Support](#question-support)
   - [:earth_asia: Translations](#earth_asia-translations)
